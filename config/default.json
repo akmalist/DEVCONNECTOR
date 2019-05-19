@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://admin-aki:test-123@cluster0-ewgxe.mongodb.net/test?retryWrites=true"
+}
